@@ -9,3 +9,7 @@ The test dataset is a protein localization dataset taking from [here](https://ar
 pip install -r requirements.txt
 python test_dh.py
 ```
+
+### Contributor
+Haotian Teng
+Christopher Langmead
