@@ -11,5 +11,5 @@ python test_dh.py
 ```
 
 ### Contributor
-Haotian Teng
-Christopher Langmead
+Haotian Teng  
+Christopher Langmead  
