@@ -6,6 +6,8 @@ The test dataset is a protein localization dataset taking from [here](https://ar
 
 ### Installation and sample use
 ``` bash
+git clone https://github.com/haotianteng/DH.git
+cd DH
 pip install -r requirements.txt
 python test_dh.py
 ```
